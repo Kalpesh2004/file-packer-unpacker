@@ -28,30 +28,7 @@ This project demonstrates strong understanding of **Core Java, File Handling, Sw
 ---
 
 ## 🗂️ Project Structure
-file-packer-unpacker
-│
-├── src/
-│ └── com/
-│ └── packerunpacker/
-│ ├── Main.java
-│ │
-│ ├── gui/
-│ │ └── PackerUnpackerUI.java
-│ │
-│ ├── service/
-│ │ ├── PackerService.java
-│ │ └── UnpackerService.java
-│ │
-│ ├── util/
-│ │ └── FileUtil.java
-│ │
-│ └── exception/
-│ └── InvalidPathException.java
-│
-├── input/
-├── output/
-├── README.md
-└── .gitignore
+<img width="628" height="596" alt="image" src="https://github.com/user-attachments/assets/2219c415-9b34-4e29-996d-d584ed18f016" />
 
 
 ---
